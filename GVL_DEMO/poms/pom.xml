@@ -11,6 +11,9 @@
   <modules>
     <module>code/routines</module>
     <module>code/beans</module>
+    <module>jobs/process/Demo/j02_validation_0.1</module>
+    <module>jobs/process/Demo/j03_deduplicating_0.1</module>
+    <module>jobs/process/Demo/j01_filetodatabase_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>

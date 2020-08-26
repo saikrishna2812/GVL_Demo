@@ -1,0 +1,641 @@
+Benjamin;Garfield;(754) 821-2628;;F;56;Timberlane Drive;Dover;Oklahoma;57206
+Thomas;Carter;(538) 898-6526;;M;34;North Atherton Street;Des Moines;Rhode Island;33303
+Theodore;VanBuren;(634) 164-7674;;M;34;San Marcos;Olympia;Kentucky;34173
+Franklin;Johnson;(318) 563-7455;;F;29;Erringer Road;Madison;Florida;43684
+Martin;Coolidge;(640) 992-8328;;F;95;Bayshore Freeway;Little Rock;Arizona;23360
+Richard;Madison;(499) 403-4351;;F;83;Pacific Hwy S;Montpelier;Maine;40517
+Andrew;Jefferson;(169) 722-4692;;F;81;Santa Rosa North;Jefferson City;Massachusetts;64358
+Franklin;Johnson;(819) 791-1318;;F;32;Richmond Hill;Juneau;West Virginia;85008
+Woodrow;Ford;(608) 954-9313;;M;51;N Kentwood;Atlanta;Louisiana;64803
+William;Tyler;(235) 297-2423;;M;19;East Main Street;Indianapolis;Arizona;49732
+Rutherford;Buchanan;(299) 192-7349;;M;96;Steele Lane;Phoenix;New Mexico;22722
+William;Adams;(594) 694-4462;;M;75;Carpinteria South;Nashville;South Carolina;30677
+Ulysses;VanBuren;(558) 206-6899;;F;92;N Kentwood;Cheyenne;Rhode Island;59676
+Grover;Monroe;(323) 688-2314;;F;54;El Camino Real;Concord;Wisconsin;87149
+Andrew;Jackson;(932) 756-3378;;M;61;Bayshore Freeway;Bismarck;Virginia;93642
+Franklin;Hoover;(479) 875-3887;;F;20;E Fowler Avenue;Lansing;Connecticut;36802
+James;Hoover;;;M;25;Via Real;Albany;South Dakota;22361
+Gerald;Adams;(276) 917-6480;;F;56;South Roosevelt Drive;Des Moines;New York;20643
+Benjamin;Johnson;(334) 639-4418;;M;31;San Luis Obispo North;Jefferson City;West Virginia;65706
+Theodore;Taft;(661) 778-8107;;F;24;Castillo Drive;Lincoln;California;54330
+Woodrow;Pierce;(796) 552-6041;;M;59;Milpas Street;Concord;South Dakota;96286
+Ulysses;Grant;(626) 703-7143;;F;38;Richmond Hill;Topeka;Nebraska;64120
+Zachary;Grant;(524) 495-6683;;F;94;Hutchinson Rd;Saint Paul;Virginia;15370
+Herbert;Wilson;(279) 348-8185;;M;21;El Camino Real;Annapolis;Florida;35066
+Ronald;Reagan;(143) 859-4938;;F;36;Redwood Highway;Topeka;Kansas;17399
+Rutherford;Roosevelt;(323) 146-7895;;F;54;Padre Boulevard;Baton Rouge;Illinois;75558
+James;Hayes;(468) 766-5605;;M;63;El Camino Real;Pierre;Tennessee;64228
+Dwight;Polk;(351) 293-4163;;F;25;Tully Road East;Trenton;Wisconsin;25976
+Thomas;Roosevelt;(695) 586-6579;;M;57;San Simeon;Augusta;Michigan;15324
+Millard;Arthur;(570) 850-6132;;F;62;Jones Road;Salt Lake City;Kentucky;21278
+Thomas;Jefferson;(806) 868-2011;;F;61;East Calle Primera;Phoenix;North Dakota;32463
+Benjamin;Madison;(551) 637-8292;;F;59;N Harrison St;Lansing;Nevada;46573
+Thomas;Taylor;(884) 186-5329;;M;98;Carpinteria Avenue;Columbus;New Jersey;74757
+Richard;Washington;;;F;84;San Simeon;Tallahassee;Oklahoma;90133
+Warren;VanBuren;(939) 496-1800;;M;42;Jean de la Fontaine;Montpelier;Arkansas;99954
+Calvin;Polk;(377) 139-9839;;M;33;Erringer Road;Bismarck;Delaware;21944
+Abraham;Eisenhower;(103) 431-4394;;M;86;Carpinteria North;Jackson;California;13024
+Theodore;Grant;(427) 611-5376;;F;57;Jones Road;Nashville;Connecticut;30193
+Jimmy;Jefferson;(970) 841-4437;;F;33;Fontaine Road;Trenton;Maryland;53141
+Herbert;Hoover;(194) 292-3991;;M;91;Apalachee Parkway;Tallahassee;Louisiana;66222
+Ronald;Jefferson;(867) 832-2099;;M;73;North Atherton Street;Olympia;West Virginia;96352
+Abraham;Harrison;(269) 914-9805;;M;99;Santa Rosa South;Lansing;Arizona;58254
+William;Madison;(561) 182-4458;;M;29;East 1st Street;Pierre;Kentucky;51346
+William;Harrison;(557) 757-2954;;F;38;Castillo Drive;Santa Fe;Rhode Island;11289
+Dwight;Cleveland;(637) 499-1901;;F;88;Erringer Road;Concord;New Jersey;72989
+Bill;Washington;(768) 252-3058;;M;42;East 1st Street;Harrisburg;Wisconsin;25871
+Harry;Truman;(459) 978-5761;;F;26;S Rustle St;Nashville;South Carolina;90669
+Warren;Madison;(222) 292-2885;;F;99;Steele Lane;Frankfort;Missouri;31055
+Grover;Cleveland;(730) 750-2553;;F;37;Santa Monica Road;Saint Paul;Louisiana;34625
+Woodrow;Jackson;(732) 534-7494;;M;77;Pacific Hwy S;Baton Rouge;Oregon;36697
+Grover;Polk;;;F;78;Carpinteria North;Madison;Nevada;76912
+Jimmy;Grant;(716) 354-6985;;F;42;S Rustle St;Phoenix;Washington;56107
+Bill;Garfield;(688) 839-7059;;M;92;Lindbergh Blvd;Helena;Montana;50914
+Franklin;Harrison;(847) 947-4152;;F;75;East Calle Primera;Des Moines;Kentucky;43254
+Herbert;Kennedy;(220) 535-9986;;M;85;Newbury Road;Boise;Idaho;41224
+Harry;Monroe;(327) 712-2819;;F;63;Camelback Rd;Jackson;South Dakota;51299
+Jimmy;Taylor;(589) 944-2423;;M;55;Lindbergh Blvd;Olympia;Vermont;77433
+Andrew;Jefferson;(996) 693-9677;;M;45;French Camp Turnpike Road;Oklahoma City;Kansas;62368
+Thomas;Nixon;(644) 170-3354;;M;47;N Kentwood;Helena;Florida;54357
+John;Buchanan;(215) 898-7536;;F;19;Castillo Drive;Salt Lake City;West Virginia;51071
+Herbert;Wilson;(785) 650-6578;;M;44;Milpas Street;Dover;Arizona;59658
+Chester;Hoover;(206) 193-9895;;M;20;San Simeon;Honolulu;Connecticut;92964
+Benjamin;Tyler;(962) 242-8546;;M;68;Santa Ana Freeway;Annapolis;Missouri;39888
+James;Polk;(584) 863-3503;;F;83;East Main Street;Carson City;California;25075
+Ulysses;Washington;(429) 301-5624;;M;77;South Roosevelt Drive;Juneau;Georgia;88854
+Warren;Roosevelt;(665) 496-9259;;M;21;East Main Street;Raleigh;North Carolina;86545
+Grover;Roosevelt;(937) 215-5026;;F;29;South Roosevelt Drive;Frankfort;Wyoming;64528
+Bill;VanBuren;;;F;58;East Main Street;Jackson;Nebraska;24436
+Bill;Buchanan;(913) 225-6662;;M;41;San Simeon;Hartford;South Carolina;43555
+Thomas;Garfield;(385) 938-4223;;F;18;Fontaine Road;Montgomery;Kansas;76279
+Benjamin;Hayes;(660) 418-6408;;M;86;Carpinteria North;Concord;Idaho;16983
+Lyndon;Garfield;(663) 687-7344;;F;43;Fontaine Road;Atlanta;Connecticut;14579
+Ulysses;Nixon;(741) 250-7098;;F;93;Santa Rosa North;Sacramento;Georgia;39223
+Chester;Adams;(675) 635-1995;;M;96;San Ysidro Blvd;Salem;Tennessee;59474
+Grover;Roosevelt;(559) 548-6234;;M;59;Milpas Street;Madison;Maryland;97925
+Dwight;Buchanan;(566) 364-7807;;M;57;Woodson Rd.;Santa Fe;Washington;67163
+Ulysses;Monroe;(994) 357-3516;;M;77;Lake Tahoe Blvd.;Austin;Georgia;97511
+Harry;Hayes;(862) 704-3862;;F;97;Milpas Street;Richmond;Idaho;50457
+George;Kennedy;(740) 269-5708;;F;54;S Rustle St;Salem;Nebraska;99209
+Rutherford;Jackson;(579) 230-5028;;M;24;Santa Rosa South;Nashville;Michigan;94824
+Rutherford;Jefferson;(275) 838-5417;;F;73;Redwood Highway;Olympia;Minnesota;46629
+Ulysses;Lincoln;(576) 662-7838;;F;91;Padre Boulevard;Harrisburg;Nevada;31983
+John;Monroe;(259) 388-9782;;F;26;Harbor Dr;Baton Rouge;South Dakota;94898
+James;Grant;(392) 228-1968;;F;26;San Simeon;Sacramento;Maryland;23504
+Warren;Pierce;;;F;22;Grandview Drive;Topeka;California;64230
+Grover;Truman;(482) 723-7622;;F;62;East Calle Primera;Atlanta;New Hampshire;88852
+William;Taft;(721) 627-4700;;F;70;Hutchinson Rd;Phoenix;Utah;33339
+William;Tyler;(759) 368-3638;;F;85;San Marcos;Denver;North Carolina;74949
+Chester;Quincy;(343) 339-5142;;M;83;North Erringer Road;Charleston;Missouri;74312
+Theodore;Harrison;(624) 315-2618;;M;27;Cabrillo Highway;Frankfort;Georgia;51872
+Rutherford;Adams;(892) 113-3422;;M;25;San Simeon;Indianapolis;Wisconsin;97296
+Benjamin;McKinley;(435) 880-3328;;F;22;S Rustle St;Dover;Montana;54154
+Ronald;Adams;(439) 260-9203;;F;46;Pacific Hwy S;Santa Fe;Ohio;54008
+Harry;Adams;(321) 465-9331;;M;43;San Luis Obispo North;Helena;Iowa;46930
+Grover;Kennedy;(644) 664-7570;;F;70;French Camp Turnpike Road;Olympia;Oregon;76937
+Gerald;Kennedy;(948) 715-3975;;F;28;Steele Lane;Columbia;Arkansas;25443
+Grover;Hoover;(834) 665-4496;;F;96;San Luis Obispo North;Pierre;Maine;39522
+Franklin;Madison;(130) 847-4458;;F;88;N Harrison St;Phoenix;Colorado;77336
+Dwight;Harrison;(468) 536-3432;;F;82;East 1st Street;Boise;New Mexico;22689
+Andrew;Fillmore;(999) 556-6102;;M;20;North Ventu Park Road;Atlanta;Texas;71978
+Harry;Monroe;(608) 351-9322;;M;93;South Highway;Jackson;Tennessee;64876
+William;Monroe;;;F;64;North Broadway Street;Richmond;California;78638
+Ulysses;Harding;(949) 753-5119;;F;66;Corona Del Mar;Topeka;South Dakota;22750
+Martin;Polk;(219) 583-2633;;M;57;South Highway;Montgomery;Oregon;55704
+Martin;Hayes;(986) 125-8344;;M;66;Via Real;Saint Paul;North Dakota;22720
+Ronald;Madison;(634) 516-8299;;M;51;Lindbergh Blvd;Augusta;Minnesota;40725
+Richard;Polk;(563) 451-9066;;M;68;Tully Road East;Boston;Georgia;83384
+Chester;McKinley;(814) 516-5348;;F;98;Apalachee Parkway;Jefferson City;North Carolina;50301
+Thomas;Grant;(400) 768-6977;;M;49;East Calle Primera;Nashville;Nevada;80865
+Richard;Buchanan;(200) 545-9021;;F;90;Padre Boulevard;Annapolis;West Virginia;80890
+Abraham;Adams;(246) 199-1871;;M;69;Burnett Road;Juneau;Idaho;45677
+Chester;Taft;(327) 713-5505;;F;74;South Highway;Lansing;Minnesota;97503
+Harry;Lincoln;(855) 981-8718;;F;40;East Fry Blvd.;Des Moines;Oregon;88243
+Benjamin;Kennedy;(832) 857-4057;;F;62;N Kentwood;Augusta;Wyoming;18202
+Thomas;Madison;(956) 976-5656;;F;74;French Camp Turnpike Road;Little Rock;North Dakota;28002
+Thomas;Truman;(432) 602-4508;;F;36;N Harrison St;Helena;Minnesota;92659
+Herbert;Coolidge;(250) 224-7376;;M;62;Milpas Street;Albany;Vermont;70620
+Theodore;Monroe;(990) 691-8329;;F;31;Cerrillos Road;Sacramento;North Carolina;66189
+Herbert;Pierce;;;F;98;North Atherton Street;Nashville;New Jersey;38965
+Woodrow;Harding;(281) 873-3811;;M;26;San Marcos;Annapolis;Tennessee;94360
+Thomas;Reagan;(351) 752-8421;;M;100;South Roosevelt Drive;Sacramento;Connecticut;27536
+Warren;Quincy;(820) 840-2877;;F;32;Moreno Drive;Salt Lake City;Connecticut;16429
+James;Grant;(936) 972-3016;;F;53;Bailard Avenue;Harrisburg;Georgia;94526
+Andrew;Nixon;(664) 766-5490;;M;84;Woodson Rd.;Lansing;New York;41786
+William;Grant;(990) 720-6969;;F;40;El Camino Real;Sacramento;South Carolina;19696
+Warren;Ford;(404) 269-8520;;F;59;Katella Avenue;Dover;Nebraska;85584
+Martin;Cleveland;(659) 901-7318;;F;44;Apalachee Parkway;Salem;New Hampshire;61869
+Ronald;Ford;(544) 926-6010;;F;78;Westside Freeway;Carson City;Maine;19030
+Rutherford;Hayes;(778) 109-3287;;F;99;Camelback Rd;Albany;Montana;47173
+Lyndon;VanBuren;(799) 901-4810;;M;45;Cerrillos Road;Olympia;Utah;42921
+Franklin;Roosevelt;(525) 155-6946;;F;93;San Simeon;Atlanta;Oregon;74793
+Theodore;Harrison;(980) 906-3507;;M;51;Harry S Truman Blvd;Columbia;Kansas;94505
+George;Truman;(510) 969-5571;;F;51;Lawrenceville Suwanee;Oklahoma City;Hawaii;40975
+Ulysses;Madison;(510) 797-9052;;M;23;Cabrillo Highway;Jackson;Arkansas;13093
+Jimmy;Tyler;(576) 690-9802;;F;31;Fairview Avenue;Salem;Mississippi;76550
+Lyndon;Adams;;;F;70;Santa Rosa South;Albany;Alaska;30240
+;Roosevelt;(332) 828-7520;;M;67;Lake Tahoe Blvd.;Salt Lake City;South Carolina;46119
+James;Tyler;(994) 245-1243;;M;61;N Kentwood;Hartford;Indiana;60088
+Bill;Carter;(265) 478-8266;;M;33;Fairview Avenue;Boise;Pennsylvania;90457
+Grover;Kennedy;(142) 372-8889;;F;55;Lake Tahoe Blvd.;Baton Rouge;Iowa;66964
+Calvin;Nixon;(794) 777-1594;;M;72;Moreno Drive;Raleigh;Wisconsin;74323
+Herbert;Wilson;(810) 511-5249;;F;34;N Kentwood;Des Moines;Louisiana;36028
+Andrew;Harrison;(384) 674-4915;;F;55;Harbor Dr;Salem;Indiana;85314
+Andrew;Adams;(463) 939-4577;;M;54;San Luis Obispo North;Oklahoma City;Kansas;13096
+John;Truman;(196) 533-2137;;F;72;Calle Real;Bismarck;Iowa;15559
+Harry;Garfield;(541) 445-7647;;F;42;Lake Tahoe Blvd.;Atlanta;Wisconsin;45171
+Andrew;Polk;(939) 820-2716;;M;55;Pacific Hwy S;Bismarck;Delaware;13735
+Theodore;Kennedy;(405) 291-2551;;F;30;North Ventu Park Road;Jefferson City;South Dakota;21333
+Calvin;Adams;(604) 661-1469;;M;62;San Marcos;Baton Rouge;Connecticut;19927
+Grover;Hayes;(367) 829-2314;;M;65;Harbor Dr;Boise;Vermont;28999
+Franklin;Monroe;(269) 594-8349;;M;29;East Calle Primera;Phoenix;West Virginia;90426
+Martin;Eisenhower;(440) 268-8872;;M;37;Newbury Road;Carson City;Montana;58730
+Rutherford;Arthur;;;F;87;Camelback Rd;Trenton;Maryland;94630
+Ronald;Roosevelt;(270) 499-6637;;F;44;Bailard Avenue;Charleston;California;22763
+Theodore;Madison;(948) 739-1730;;F;32;Moreno Drive;Charleston;Tennessee;66285
+Ulysses;Tyler;(454) 153-7320;;M;40;Castillo Drive;Baton Rouge;Oregon;76177
+Ronald;Johnson;(331) 731-3273;;F;41;El Camino Real;Carson City;Georgia;83085
+William;Taft;(474) 907-4100;;M;34;North Atherton Street;Phoenix;Ohio;78264
+Richard;Arthur;(379) 541-4842;;F;28;E Fowler Avenue;Santa Fe;Arizona;98710
+Harry;Buchanan;(841) 513-7791;;M;48;Burnett Road;Charleston;Massachusetts;60960
+Grover;Madison;(919) 876-1757;;M;52;Fontaine Road;Austin;Illinois;59829
+Thomas;Garfield;(875) 884-1337;;M;57;Monroe Street;Carson City;Idaho;25437
+Ulysses;Adams;(809) 224-2960;;F;92;Harbor Dr;Honolulu;Oregon;62866
+Lyndon;Ford;(904) 815-4025;;F;31;San Marcos;Jackson;Vermont;67183
+Woodrow;Arthur;(581) 200-3443;;F;79;Cleveland Ave.;Providence;Oregon;41576
+James;Johnson;(214) 518-7743;;F;94;Santa Rosa South;Des Moines;North Carolina;67540
+Benjamin;Jefferson;(956) 689-6909;;F;23;East Calle Primera;Boise;Tennessee;37617
+Lyndon;Harrison;(844) 847-5453;;M;77;Lawrenceville Suwanee;Raleigh;Arkansas;74414
+Rutherford;Kennedy;(225) 862-4243;;M;39;Burnett Road;Madison;Vermont;70335
+Jimmy;Monroe;;;M;70;Pacific Hwy S;Montpelier;Pennsylvania;26954
+Herbert;Ford;(828) 418-5008;;M;31;Cerrillos Road;Montgomery;Louisiana;99801
+Millard;Harrison;(337) 874-7893;;M;52;Jean de la Fontaine;Salem;New Hampshire;80449
+Ulysses;Cleveland;(351) 655-4366;;F;46;Harbor Dr;Phoenix;Kansas;57811
+James;Polk;(656) 903-8621;;M;51;Woodson Rd.;Madison;Connecticut;58607
+Martin;Clinton;(354) 412-8901;;F;67;Cleveland Ave.;Richmond;Tennessee;71628
+Woodrow;Polk;(410) 204-1195;;M;93;Cleveland Ave.;Jefferson City;Illinois;56322
+Thomas;Johnson;(382) 696-8357;;M;27;Westside Freeway;Boston;Arizona;47003
+Grover;Kennedy;(166) 341-3114;;F;46;San Diego Freeway;Charleston;Idaho;70265
+Jimmy;Ford;(486) 344-8579;;F;31;Carpinteria South;Albany;Oregon;66002
+Calvin;Roosevelt;(302) 349-7489;;F;78;Tanger Blvd;Denver;Texas;36127
+Lyndon;Carter;(623) 967-9495;;F;100;N Harrison St;Phoenix;Mississippi;58005
+Millard;Garfield;(138) 461-2274;;F;87;Via Real;Salt Lake City;Texas;88920
+Calvin;Adams;(408) 835-9699;;F;45;Castillo Drive;Salt Lake City;Oregon;30121
+Chester;Polk;(938) 295-3663;;M;100;Lindbergh Blvd;Carson City;California;14225
+George;Grant;(605) 513-8297;;F;100;Greenwood Road;Madison;California;40590
+Bill;Quincy;(829) 245-1489;;M;40;East Fry Blvd.;Providence;West Virginia;12516
+Ulysses;Arthur;;;F;47;Burnett Road;Phoenix;New Hampshire;65455
+James;Buchanan;(856) 434-1737;;F;58;Cabrillo Highway;Jefferson City;Delaware;55740
+Benjamin;Adams;(352) 459-1560;;F;18;San Simeon;Hartford;Maine;33912
+Millard;Harrison;(885) 112-5542;;F;22;Fairview Avenue;Saint Paul;Alaska;52907
+Calvin;Taft;(693) 476-1839;;F;49;Santa Rosa South;Des Moines;Oregon;35592
+Woodrow;Quincy;(289) 409-2990;;M;100;Harbor Dr;Juneau;Wisconsin;70687
+Grover;Hayes;(556) 104-5026;;M;20;E Fowler Avenue;Topeka;Florida;33677
+Herbert;Johnson;(783) 385-3763;;F;64;North Preisker Lane;Salem;Ohio;87076
+Ronald;Pierce;(887) 333-7714;;M;85;North Erringer Road;Springfield;Wisconsin;17830
+Franklin;Harrison;(565) 670-6149;;F;60;Cabrillo Highway;Trenton;Montana;57632
+Zachary;Polk;(577) 901-6092;;F;24;Fontaine Road;Bismarck;Missouri;67138
+Theodore;Harrison;(427) 790-3561;;F;45;Castillo Drive;Des Moines;Kentucky;66945
+Ulysses;Tyler;(135) 607-2607;;M;71;Camelback Rd;Jefferson City;Illinois;65544
+Gerald;Kennedy;(593) 663-3297;;F;99;N Kentwood;Dover;New York;45027
+Grover;Jefferson;(220) 397-7833;j.com;F;96;Steele Lane;Madison;Oregon;82990
+Martin;Harrison;(756) 446-1231;harrcom;F;59;Richmond Hill;Richmond;Maine;98051
+James;Lincoln;(674) 503-3902;liom;M;49;Lawrenceville Suwanee;Helena;Rhode Island;32871
+Woodrow;Taft;(199) 702-4967;taft.woodr@ow@yahoo.co.in;M;46;Camelback Rd;Raleigh;Minnesota;44207
+Jimmy;Taylor;(589) 944-2423;;M;55;Lindbergh Blvd;Olympia;Vermont;77433
+Andrew;Jefferson;(996) 693-9677;;M;45;French Camp Turnpike Road;Oklahoma City;Kansas;62368
+Thomas;Nixon;(644) 170-3354;;M;47;N Kentwood;Helena;Florida;54357
+John;Buchanan;(215) 898-7536;;F;19;Castillo Drive;Salt Lake City;West Virginia;51071
+Herbert;Wilson;(785) 650-6578;;M;44;Milpas Street;Dover;Arizona;59658
+Chester;Hoover;(206) 193-9895;;M;20;San Simeon;Honolulu;Connecticut;92964
+Benjamin;Tyler;(962) 242-8546;;M;68;Santa Ana Freeway;Annapolis;Missouri;39888
+James;Polk;(584) 863-3503;;F;83;East Main Street;Carson City;California;25075
+Ulysses;Washington;(429) 301-5624;;M;77;South Roosevelt Drive;Juneau;Georgia;88854
+Warren;Roosevelt;(665) 496-9259;;M;21;East Main Street;Raleigh;North Carolina;86545
+Grover;Roosevelt;(937) 215-5026;;F;29;South Roosevelt Drive;Frankfort;Wyoming;64528
+Bill;VanBuren;;;F;58;East Main Street;Jackson;Nebraska;24436
+Bill;Buchanan;(913) 225-6662;;M;41;San Simeon;Hartford;South Carolina;43555
+Thomas;Garfield;(385) 938-4223;;F;18;Fontaine Road;Montgomery;Kansas;76279
+Benjamin;Hayes;(660) 418-6408;;M;86;Carpinteria North;Concord;Idaho;16983
+Lyndon;Garfield;(663) 687-7344;;F;43;Fontaine Road;Atlanta;Connecticut;14579
+Ulysses;Nixon;(741) 250-7098;;F;93;Santa Rosa North;Sacramento;Georgia;39223
+Chester;Adams;(675) 635-1995;;M;96;San Ysidro Blvd;Salem;Tennessee;59474
+Grover;Roosevelt;(559) 548-6234;;M;59;Milpas Street;Madison;Maryland;97925
+Dwight;Buchanan;(566) 364-7807;;M;57;Woodson Rd.;Santa Fe;Washington;67163
+Ulysses;Monroe;(994) 357-3516;;M;77;Lake Tahoe Blvd.;Austin;Georgia;97511
+Harry;Hayes;(862) 704-3862;;F;97;Milpas Street;Richmond;Idaho;50457
+George;Kennedy;(740) 269-5708;;F;54;S Rustle St;Salem;Nebraska;99209
+Rutherford;Jackson;(579) 230-5028;;M;24;Santa Rosa South;Nashville;Michigan;94824
+Rutherford;Jefferson;(275) 838-5417;;F;73;Redwood Highway;Olympia;Minnesota;46629
+Ulysses;Lincoln;(576) 662-7838;;F;91;Padre Boulevard;Harrisburg;Nevada;31983
+John;Monroe;(259) 388-9782;;F;26;Harbor Dr;Baton Rouge;South Dakota;94898
+James;Grant;(392) 228-1968;;F;26;San Simeon;Sacramento;Maryland;23504
+Warren;Pierce;;;F;22;Grandview Drive;Topeka;California;64230
+Grover;Truman;(482) 723-7622;;F;62;East Calle Primera;Atlanta;New Hampshire;88852
+William;Taft;(721) 627-4700;;F;70;Hutchinson Rd;Phoenix;Utah;33339
+William;Tyler;(759) 368-3638;;F;85;San Marcos;Denver;North Carolina;74949
+Chester;Quincy;(343) 339-5142;;M;83;North Erringer Road;Charleston;Missouri;74312
+Theodore;Harrison;(624) 315-2618;;M;27;Cabrillo Highway;Frankfort;Georgia;51872
+Rutherford;Adams;(892) 113-3422;;M;25;San Simeon;Indianapolis;Wisconsin;97296
+Benjamin;McKinley;(435) 880-3328;;F;22;S Rustle St;Dover;Montana;54154
+Ronald;Adams;(439) 260-9203;;F;46;Pacific Hwy S;Santa Fe;Ohio;54008
+Harry;Adams;(321) 465-9331;;M;43;San Luis Obispo North;Helena;Iowa;46930
+Grover;Kennedy;(644) 664-7570;;F;70;French Camp Turnpike Road;Olympia;Oregon;76937
+Gerald;Kennedy;(948) 715-3975;;F;28;Steele Lane;Columbia;Arkansas;25443
+Grover;Hoover;(834) 665-4496;;F;96;San Luis Obispo North;Pierre;Maine;39522
+Franklin;Madison;(130) 847-4458;;F;88;N Harrison St;Phoenix;Colorado;77336
+Dwight;Harrison;(468) 536-3432;;F;82;East 1st Street;Boise;New Mexico;22689
+Andrew;Fillmore;(999) 556-6102;;M;20;North Ventu Park Road;Atlanta;Texas;71978
+Harry;Monroe;(608) 351-9322;;M;93;South Highway;Jackson;Tennessee;64876
+William;Monroe;;;F;64;North Broadway Street;Richmond;California;78638
+Ulysses;Harding;(949) 753-5119;;F;66;Corona Del Mar;Topeka;South Dakota;22750
+Martin;Polk;(219) 583-2633;;M;57;South Highway;Montgomery;Oregon;55704
+Martin;Hayes;(986) 125-8344;;M;66;Via Real;Saint Paul;North Dakota;22720
+Ronald;Madison;(634) 516-8299;;M;51;Lindbergh Blvd;Augusta;Minnesota;40725
+Richard;Polk;(563) 451-9066;;M;68;Tully Road East;Boston;Georgia;83384
+Chester;McKinley;(814) 516-5348;;F;98;Apalachee Parkway;Jefferson City;North Carolina;50301
+Thomas;Grant;(400) 768-6977;;M;49;East Calle Primera;Nashville;Nevada;80865
+Richard;Buchanan;(200) 545-9021;;F;90;Padre Boulevard;Annapolis;West Virginia;80890
+Abraham;Adams;(246) 199-1871;;M;69;Burnett Road;Juneau;Idaho;45677
+Chester;Taft;(327) 713-5505;;F;74;South Highway;Lansing;Minnesota;97503
+Harry;Lincoln;(855) 981-8718;;F;40;East Fry Blvd.;Des Moines;Oregon;88243
+Benjamin;Kennedy;(832) 857-4057;;F;62;N Kentwood;Augusta;Wyoming;18202
+Thomas;Madison;(956) 976-5656;;F;74;French Camp Turnpike Road;Little Rock;North Dakota;28002
+Thomas;Truman;(432) 602-4508;;F;36;N Harrison St;Helena;Minnesota;92659
+Herbert;Coolidge;(250) 224-7376;;M;62;Milpas Street;Albany;Vermont;70620
+Theodore;Monroe;(990) 691-8329;;F;31;Cerrillos Road;Sacramento;North Carolina;66189
+Herbert;Pierce;;;F;98;North Atherton Street;Nashville;New Jersey;38965
+Woodrow;Harding;(281) 873-3811;;M;26;San Marcos;Annapolis;Tennessee;94360
+Thomas;Reagan;(351) 752-8421;;M;100;South Roosevelt Drive;Sacramento;Connecticut;27536
+Warren;Quincy;(820) 840-2877;;F;32;Moreno Drive;Salt Lake City;Connecticut;16429
+James;Grant;(936) 972-3016;;F;53;Bailard Avenue;Harrisburg;Georgia;94526
+Andrew;Nixon;(664) 766-5490;;M;84;Woodson Rd.;Lansing;New York;41786
+William;Grant;(990) 720-6969;;F;40;El Camino Real;Sacramento;South Carolina;19696
+Warren;Ford;(404) 269-8520;;F;59;Katella Avenue;Dover;Nebraska;85584
+Martin;Cleveland;(659) 901-7318;;F;44;Apalachee Parkway;Salem;New Hampshire;61869
+Ronald;Ford;(544) 926-6010;;F;78;Westside Freeway;Carson City;Maine;19030
+Rutherford;Hayes;(778) 109-3287;;F;99;Camelback Rd;Albany;Montana;47173
+Lyndon;VanBuren;(799) 901-4810;;M;45;Cerrillos Road;Olympia;Utah;42921
+Franklin;Roosevelt;(525) 155-6946;;F;93;San Simeon;Atlanta;Oregon;74793
+Benjamin;Garfield;(754) 821-2628;;F;56;Timberlane Drive;Dover;Oklahoma;57206
+Thomas;Carter;(538) 898-6526;;M;34;North Atherton Street;Des Moines;Rhode Island;33303
+Theodore;VanBuren;(634) 164-7674;;M;34;San Marcos;Olympia;Kentucky;34173
+Franklin;Johnson;(318) 563-7455;;F;29;Erringer Road;Madison;Florida;43684
+Martin;Coolidge;(640) 992-8328;;F;95;Bayshore Freeway;Little Rock;Arizona;23360
+Richard;Madison;(499) 403-4351;;F;83;Pacific Hwy S;Montpelier;Maine;40517
+Andrew;Jefferson;(169) 722-4692;;F;81;Santa Rosa North;Jefferson City;Massachusetts;64358
+Franklin;Johnson;(819) 791-1318;;F;32;Richmond Hill;Juneau;West Virginia;85008
+Woodrow;Ford;(608) 954-9313;;M;51;N Kentwood;Atlanta;Louisiana;64803
+William;Tyler;(235) 297-2423;;M;19;East Main Street;Indianapolis;Arizona;49732
+Rutherford;Buchanan;(299) 192-7349;;M;96;Steele Lane;Phoenix;New Mexico;22722
+William;Adams;(594) 694-4462;;M;75;Carpinteria South;Nashville;South Carolina;30677
+Ulysses;VanBuren;(558) 206-6899;;F;92;N Kentwood;Cheyenne;Rhode Island;59676
+Grover;Monroe;(323) 688-2314;;F;54;El Camino Real;Concord;Wisconsin;87149
+Andrew;Jackson;(932) 756-3378;;M;61;Bayshore Freeway;Bismarck;Virginia;93642
+Franklin;Hoover;(479) 875-3887;;F;20;E Fowler Avenue;Lansing;Connecticut;36802
+James;Hoover;;;M;25;Via Real;Albany;South Dakota;22361
+Gerald;Adams;(276) 917-6480;;F;56;South Roosevelt Drive;Des Moines;New York;20643
+Benjamin;Johnson;(334) 639-4418;;M;31;San Luis Obispo North;Jefferson City;West Virginia;65706
+Theodore;Taft;(661) 778-8107;;F;24;Castillo Drive;Lincoln;California;54330
+Woodrow;Pierce;(796) 552-6041;;M;59;Milpas Street;Concord;South Dakota;96286
+Ulysses;Grant;(626) 703-7143;;F;38;Richmond Hill;Topeka;Nebraska;64120
+Zachary;Grant;(524) 495-6683;;F;94;Hutchinson Rd;Saint Paul;Virginia;15370
+Herbert;Wilson;(279) 348-8185;;M;21;El Camino Real;Annapolis;Florida;35066
+Ronald;Reagan;(143) 859-4938;;F;36;Redwood Highway;Topeka;Kansas;17399
+Rutherford;Roosevelt;(323) 146-7895;;F;54;Padre Boulevard;Baton Rouge;Illinois;75558
+James;Hayes;(468) 766-5605;;M;63;El Camino Real;Pierre;Tennessee;64228
+Dwight;Polk;(351) 293-4163;;F;25;Tully Road East;Trenton;Wisconsin;25976
+Thomas;Roosevelt;(695) 586-6579;;M;57;San Simeon;Augusta;Michigan;15324
+Millard;Arthur;(570) 850-6132;;F;62;Jones Road;Salt Lake City;Kentucky;21278
+Thomas;Jefferson;(806) 868-2011;;F;61;East Calle Primera;Phoenix;North Dakota;32463
+Benjamin;Madison;(551) 637-8292;;F;59;N Harrison St;Lansing;Nevada;46573
+Thomas;Taylor;(884) 186-5329;;M;98;Carpinteria Avenue;Columbus;New Jersey;74757
+Richard;Washington;;;F;84;San Simeon;Tallahassee;Oklahoma;90133
+Warren;VanBuren;(939) 496-1800;;M;42;Jean de la Fontaine;Montpelier;Arkansas;99954
+Calvin;Polk;(377) 139-9839;;M;33;Erringer Road;Bismarck;Delaware;21944
+Abraham;Eisenhower;(103) 431-4394;;M;86;Carpinteria North;Jackson;California;13024
+Theodore;Grant;(427) 611-5376;;F;57;Jones Road;Nashville;Connecticut;30193
+Jimmy;Jefferson;(970) 841-4437;;F;33;Fontaine Road;Trenton;Maryland;53141
+Herbert;Hoover;(194) 292-3991;;M;91;Apalachee Parkway;Tallahassee;Louisiana;66222
+Ronald;Jefferson;(867) 832-2099;;M;73;North Atherton Street;Olympia;West Virginia;96352
+Abraham;Harrison;(269) 914-9805;;M;99;Santa Rosa South;Lansing;Arizona;58254
+William;Madison;(561) 182-4458;;M;29;East 1st Street;Pierre;Kentucky;51346
+William;Harrison;(557) 757-2954;;F;38;Castillo Drive;Santa Fe;Rhode Island;11289
+Dwight;Cleveland;(637) 499-1901;;F;88;Erringer Road;Concord;New Jersey;72989
+Bill;Washington;(768) 252-3058;;M;42;East 1st Street;Harrisburg;Wisconsin;25871
+Harry;Truman;(459) 978-5761;;F;26;S Rustle St;Nashville;South Carolina;90669
+Warren;Madison;(222) 292-2885;;F;99;Steele Lane;Frankfort;Missouri;31055
+Grover;Cleveland;(730) 750-2553;;F;37;Santa Monica Road;Saint Paul;Louisiana;34625
+Woodrow;Jackson;(732) 534-7494;;M;77;Pacific Hwy S;Baton Rouge;Oregon;36697
+Grover;Polk;;;F;78;Carpinteria North;Madison;Nevada;76912
+Jimmy;Grant;(716) 354-6985;;F;42;S Rustle St;Phoenix;Washington;56107
+Bill;Garfield;(688) 839-7059;;M;92;Lindbergh Blvd;Helena;Montana;50914
+Franklin;Harrison;(847) 947-4152;;F;75;East Calle Primera;Des Moines;Kentucky;43254
+Herbert;Kennedy;(220) 535-9986;;M;85;Newbury Road;Boise;Idaho;41224
+Harry;Monroe;(327) 712-2819;;F;63;Camelback Rd;Jackson;South Dakota;51299
+Jimmy;Taylor;(589) 944-2423;;M;55;Lindbergh Blvd;Olympia;Vermont;77433
+Andrew;Jefferson;(996) 693-9677;;M;45;French Camp Turnpike Road;Oklahoma City;Kansas;62368
+Thomas;Nixon;(644) 170-3354;;M;47;N Kentwood;Helena;Florida;54357
+John;Buchanan;(215) 898-7536;;F;19;Castillo Drive;Salt Lake City;West Virginia;51071
+Herbert;Wilson;(785) 650-6578;;M;44;Milpas Street;Dover;Arizona;59658
+Chester;Hoover;(206) 193-9895;;M;20;San Simeon;Honolulu;Connecticut;92964
+Benjamin;Tyler;(962) 242-8546;;M;68;Santa Ana Freeway;Annapolis;Missouri;39888
+James;Polk;(584) 863-3503;;F;83;East Main Street;Carson City;California;25075
+Ulysses;Washington;(429) 301-5624;;M;77;South Roosevelt Drive;Juneau;Georgia;88854
+Warren;Roosevelt;(665) 496-9259;;M;21;East Main Street;Raleigh;North Carolina;86545
+Grover;Roosevelt;(937) 215-5026;;F;29;South Roosevelt Drive;Frankfort;Wyoming;64528
+Bill;VanBuren;;;F;58;East Main Street;Jackson;Nebraska;24436
+Bill;Buchanan;(913) 225-6662;;M;41;San Simeon;Hartford;South Carolina;43555
+Thomas;Garfield;(385) 938-4223;;F;18;Fontaine Road;Montgomery;Kansas;76279
+Benjamin;Hayes;(660) 418-6408;;M;86;Carpinteria North;Concord;Idaho;16983
+Lyndon;Garfield;(663) 687-7344;;F;43;Fontaine Road;Atlanta;Connecticut;14579
+Ulysses;Nixon;(741) 250-7098;;F;93;Santa Rosa North;Sacramento;Georgia;39223
+Chester;Adams;(675) 635-1995;;M;96;San Ysidro Blvd;Salem;Tennessee;59474
+Grover;Roosevelt;(559) 548-6234;;M;59;Milpas Street;Madison;Maryland;97925
+Dwight;Buchanan;(566) 364-7807;;M;57;Woodson Rd.;Santa Fe;Washington;67163
+Ulysses;Monroe;(994) 357-3516;;M;77;Lake Tahoe Blvd.;Austin;Georgia;97511
+Harry;Hayes;(862) 704-3862;;F;97;Milpas Street;Richmond;Idaho;50457
+George;Kennedy;(740) 269-5708;;F;54;S Rustle St;Salem;Nebraska;99209
+Rutherford;Jackson;(579) 230-5028;;M;24;Santa Rosa South;Nashville;Michigan;94824
+Rutherford;Jefferson;(275) 838-5417;;F;73;Redwood Highway;Olympia;Minnesota;46629
+Ulysses;Lincoln;(576) 662-7838;;F;91;Padre Boulevard;Harrisburg;Nevada;31983
+John;Monroe;(259) 388-9782;;F;26;Harbor Dr;Baton Rouge;South Dakota;94898
+James;Grant;(392) 228-1968;;F;26;San Simeon;Sacramento;Maryland;23504
+Warren;Pierce;;;F;22;Grandview Drive;Topeka;California;64230
+Grover;Truman;(482) 723-7622;;F;62;East Calle Primera;Atlanta;New Hampshire;88852
+William;Taft;(721) 627-4700;;F;70;Hutchinson Rd;Phoenix;Utah;33339
+William;Tyler;(759) 368-3638;;F;85;San Marcos;Denver;North Carolina;74949
+Chester;Quincy;(343) 339-5142;;M;83;North Erringer Road;Charleston;Missouri;74312
+Theodore;Harrison;(624) 315-2618;;M;27;Cabrillo Highway;Frankfort;Georgia;51872
+Rutherford;Adams;(892) 113-3422;;M;25;San Simeon;Indianapolis;Wisconsin;97296
+Benjamin;McKinley;(435) 880-3328;;F;22;S Rustle St;Dover;Montana;54154
+Ronald;Adams;(439) 260-9203;;F;46;Pacific Hwy S;Santa Fe;Ohio;54008
+Harry;Adams;(321) 465-9331;;M;43;San Luis Obispo North;Helena;Iowa;46930
+Grover;Kennedy;(644) 664-7570;;F;70;French Camp Turnpike Road;Olympia;Oregon;76937
+Gerald;Kennedy;(948) 715-3975;;F;28;Steele Lane;Columbia;Arkansas;25443
+Grover;Hoover;(834) 665-4496;;F;96;San Luis Obispo North;Pierre;Maine;39522
+Franklin;Madison;(130) 847-4458;;F;88;N Harrison St;Phoenix;Colorado;77336
+Dwight;Harrison;(468) 536-3432;;F;82;East 1st Street;Boise;New Mexico;22689
+Andrew;Fillmore;(999) 556-6102;;M;20;North Ventu Park Road;Atlanta;Texas;71978
+Harry;Monroe;(608) 351-9322;;M;93;South Highway;Jackson;Tennessee;64876
+William;Monroe;;;F;64;North Broadway Street;Richmond;California;78638
+Ulysses;Harding;(949) 753-5119;;F;66;Corona Del Mar;Topeka;South Dakota;22750
+Martin;Polk;(219) 583-2633;;M;57;South Highway;Montgomery;Oregon;55704
+Martin;Hayes;(986) 125-8344;;M;66;Via Real;Saint Paul;North Dakota;22720
+Ronald;Madison;(634) 516-8299;;M;51;Lindbergh Blvd;Augusta;Minnesota;40725
+Richard;Polk;(563) 451-9066;;M;68;Tully Road East;Boston;Georgia;83384
+Chester;McKinley;(814) 516-5348;;F;98;Apalachee Parkway;Jefferson City;North Carolina;50301
+Thomas;Grant;(400) 768-6977;;M;49;East Calle Primera;Nashville;Nevada;80865
+Richard;Buchanan;(200) 545-9021;;F;90;Padre Boulevard;Annapolis;West Virginia;80890
+Abraham;Adams;(246) 199-1871;;M;69;Burnett Road;Juneau;Idaho;45677
+Chester;Taft;(327) 713-5505;;F;74;South Highway;Lansing;Minnesota;97503
+Harry;Lincoln;(855) 981-8718;;F;40;East Fry Blvd.;Des Moines;Oregon;88243
+Benjamin;Kennedy;(832) 857-4057;;F;62;N Kentwood;Augusta;Wyoming;18202
+Thomas;Madison;(956) 976-5656;;F;74;French Camp Turnpike Road;Little Rock;North Dakota;28002
+Thomas;Truman;(432) 602-4508;;F;36;N Harrison St;Helena;Minnesota;92659
+Herbert;Coolidge;(250) 224-7376;;M;62;Milpas Street;Albany;Vermont;70620
+Theodore;Monroe;(990) 691-8329;;F;31;Cerrillos Road;Sacramento;North Carolina;66189
+Ronald;Johnson;(331) 731-3273;;F;41;El Camino Real;Carson City;Georgia;83085
+William;Taft;(474) 907-4100;;M;34;North Atherton Street;Phoenix;Ohio;78264
+Richard;Arthur;(379) 541-4842;;F;28;E Fowler Avenue;Santa Fe;Arizona;98710
+Harry;Buchanan;(841) 513-7791;;M;48;Burnett Road;Charleston;Massachusetts;60960
+Grover;Madison;(919) 876-1757;;M;52;Fontaine Road;Austin;Illinois;59829
+Thomas;Garfield;(875) 884-1337;;M;57;Monroe Street;Carson City;Idaho;25437
+Ulysses;Adams;(809) 224-2960;;F;92;Harbor Dr;Honolulu;Oregon;62866
+Lyndon;Ford;(904) 815-4025;;F;31;San Marcos;Jackson;Vermont;67183
+Woodrow;Arthur;(581) 200-3443;;F;79;Cleveland Ave.;Providence;Oregon;41576
+James;Johnson;(214) 518-7743;;F;94;Santa Rosa South;Des Moines;North Carolina;67540
+Benjamin;Jefferson;(956) 689-6909;;F;23;East Calle Primera;Boise;Tennessee;37617
+Lyndon;Harrison;(844) 847-5453;;M;77;Lawrenceville Suwanee;Raleigh;Arkansas;74414
+Rutherford;Kennedy;(225) 862-4243;;M;39;Burnett Road;Madison;Vermont;70335
+Jimmy;Monroe;;;M;70;Pacific Hwy S;Montpelier;Pennsylvania;26954
+Herbert;Ford;(828) 418-5008;;M;31;Cerrillos Road;Montgomery;Louisiana;99801
+Millard;Harrison;(337) 874-7893;;M;52;Jean de la Fontaine;Salem;New Hampshire;80449
+Ulysses;Cleveland;(351) 655-4366;;F;46;Harbor Dr;Phoenix;Kansas;57811
+James;Polk;(656) 903-8621;;M;51;Woodson Rd.;Madison;Connecticut;58607
+Martin;Clinton;(354) 412-8901;;F;67;Cleveland Ave.;Richmond;Tennessee;71628
+Woodrow;Polk;(410) 204-1195;;M;93;Cleveland Ave.;Jefferson City;Illinois;56322
+Thomas;Johnson;(382) 696-8357;;M;27;Westside Freeway;Boston;Arizona;47003
+Grover;Kennedy;(166) 341-3114;;F;46;San Diego Freeway;Charleston;Idaho;70265
+Jimmy;Ford;(486) 344-8579;;F;31;Carpinteria South;Albany;Oregon;66002
+Calvin;Roosevelt;(302) 349-7489;;F;78;Tanger Blvd;Denver;Texas;36127
+Lyndon;Carter;(623) 967-9495;;F;100;N Harrison St;Phoenix;Mississippi;58005
+Millard;Garfield;(138) 461-2274;;F;87;Via Real;Salt Lake City;Texas;88920
+Calvin;Adams;(408) 835-9699;;F;45;Castillo Drive;Salt Lake City;Oregon;30121
+Chester;Polk;(938) 295-3663;;M;100;Lindbergh Blvd;Carson City;California;14225
+George;Grant;(605) 513-8297;;F;100;Greenwood Road;Madison;California;40590
+Bill;Quincy;(829) 245-1489;;M;40;East Fry Blvd.;Providence;West Virginia;12516
+Ulysses;Arthur;;;F;47;Burnett Road;Phoenix;New Hampshire;65455
+James;Buchanan;(856) 434-1737;;F;58;Cabrillo Highway;Jefferson City;Delaware;55740
+Benjamin;Adams;(352) 459-1560;;F;18;San Simeon;Hartford;Maine;33912
+Millard;Harrison;(885) 112-5542;;F;22;Fairview Avenue;Saint Paul;Alaska;52907
+Calvin;Taft;(693) 476-1839;;F;49;Santa Rosa South;Des Moines;Oregon;35592
+Woodrow;Quincy;(289) 409-2990;;M;100;Harbor Dr;Juneau;Wisconsin;70687
+Grover;Hayes;(556) 104-5026;;M;20;E Fowler Avenue;Topeka;Florida;33677
+Herbert;Johnson;(783) 385-3763;;F;64;North Preisker Lane;Salem;Ohio;87076
+Ronald;Pierce;(887) 333-7714;;M;85;North Erringer Road;Springfield;Wisconsin;17830
+Franklin;Harrison;(565) 670-6149;;F;60;Cabrillo Highway;Trenton;Montana;57632
+Zachary;Polk;(577) 901-6092;;F;24;Fontaine Road;Bismarck;Missouri;67138
+Theodore;Harrison;(427) 790-3561;;F;45;Castillo Drive;Des Moines;Kentucky;66945
+Ulysses;Tyler;(135) 607-2607;;M;71;Camelback Rd;Jefferson City;Illinois;65544
+Gerald;Kennedy;(593) 663-3297;;F;99;N Kentwood;Dover;New York;45027
+Grover;Jefferson;(220) 397-7833;j.com;F;96;Steele Lane;Madison;Oregon;82990
+Martin;Harrison;(756) 446-1231;harrcom;F;59;Richmond Hill;Richmond;Maine;98051
+James;Lincoln;(674) 503-3902;liom;M;49;Lawrenceville Suwanee;Helena;Rhode Island;32871
+Woodrow;Taft;(199) 702-4967;taft.woodr@ow@yahoo.co.in;M;46;Camelback Rd;Raleigh;Minnesota;44207
+Jimmy;Taylor;(589) 944-2423;;M;55;Lindbergh Blvd;Olympia;Vermont;77433
+Andrew;Jefferson;(996) 693-9677;;M;45;French Camp Turnpike Road;Oklahoma City;Kansas;62368
+Thomas;Nixon;(644) 170-3354;;M;47;N Kentwood;Helena;Florida;54357
+John;Buchanan;(215) 898-7536;;F;19;Castillo Drive;Salt Lake City;West Virginia;51071
+Herbert;Wilson;(785) 650-6578;;M;44;Milpas Street;Dover;Arizona;59658
+Chester;Hoover;(206) 193-9895;;M;20;San Simeon;Honolulu;Connecticut;92964
+Benjamin;Tyler;(962) 242-8546;;M;68;Santa Ana Freeway;Annapolis;Missouri;39888
+James;Polk;(584) 863-3503;;F;83;East Main Street;Carson City;California;25075
+Ulysses;Washington;(429) 301-5624;;M;77;South Roosevelt Drive;Juneau;Georgia;88854
+Warren;Roosevelt;(665) 496-9259;;M;21;East Main Street;Raleigh;North Carolina;86545
+Grover;Roosevelt;(937) 215-5026;;F;29;South Roosevelt Drive;Frankfort;Wyoming;64528
+Bill;VanBuren;;;F;58;East Main Street;Jackson;Nebraska;24436
+Bill;Buchanan;(913) 225-6662;;M;41;San Simeon;Hartford;South Carolina;43555
+Thomas;Garfield;(385) 938-4223;;F;18;Fontaine Road;Montgomery;Kansas;76279
+Benjamin;Hayes;(660) 418-6408;;M;86;Carpinteria North;Concord;Idaho;16983
+Lyndon;Garfield;(663) 687-7344;;F;43;Fontaine Road;Atlanta;Connecticut;14579
+Ulysses;Nixon;(741) 250-7098;;F;93;Santa Rosa North;Sacramento;Georgia;39223
+Chester;Adams;(675) 635-1995;;M;96;San Ysidro Blvd;Salem;Tennessee;59474
+Grover;Roosevelt;(559) 548-6234;;M;59;Milpas Street;Madison;Maryland;97925
+Dwight;Buchanan;(566) 364-7807;;M;57;Woodson Rd.;Santa Fe;Washington;67163
+Ulysses;Monroe;(994) 357-3516;;M;77;Lake Tahoe Blvd.;Austin;Georgia;97511
+Harry;Hayes;(862) 704-3862;;F;97;Milpas Street;Richmond;Idaho;50457
+George;Kennedy;(740) 269-5708;;F;54;S Rustle St;Salem;Nebraska;99209
+Rutherford;Jackson;(579) 230-5028;;M;24;Santa Rosa South;Nashville;Michigan;94824
+Rutherford;Jefferson;(275) 838-5417;;F;73;Redwood Highway;Olympia;Minnesota;46629
+Ulysses;Lincoln;(576) 662-7838;;F;91;Padre Boulevard;Harrisburg;Nevada;31983
+John;Monroe;(259) 388-9782;;F;26;Harbor Dr;Baton Rouge;South Dakota;94898
+James;Grant;(392) 228-1968;;F;26;San Simeon;Sacramento;Maryland;23504
+Warren;Pierce;;;F;22;Grandview Drive;Topeka;California;64230
+Grover;Truman;(482) 723-7622;;F;62;East Calle Primera;Atlanta;New Hampshire;88852
+William;Taft;(721) 627-4700;;F;70;Hutchinson Rd;Phoenix;Utah;33339
+William;Tyler;(759) 368-3638;;F;85;San Marcos;Denver;North Carolina;74949
+Chester;Quincy;(343) 339-5142;;M;83;North Erringer Road;Charleston;Missouri;74312
+Theodore;Harrison;(624) 315-2618;;M;27;Cabrillo Highway;Frankfort;Georgia;51872
+Rutherford;Adams;(892) 113-3422;;M;25;San Simeon;Indianapolis;Wisconsin;97296
+Benjamin;McKinley;(435) 880-3328;;F;22;S Rustle St;Dover;Montana;54154
+Ronald;Adams;(439) 260-9203;;F;46;Pacific Hwy S;Santa Fe;Ohio;54008
+Harry;Adams;(321) 465-9331;;M;43;San Luis Obispo North;Helena;Iowa;46930
+Grover;Kennedy;(644) 664-7570;;F;70;French Camp Turnpike Road;Olympia;Oregon;76937
+Gerald;Kennedy;(948) 715-3975;;F;28;Steele Lane;Columbia;Arkansas;25443
+Grover;Hoover;(834) 665-4496;;F;96;San Luis Obispo North;Pierre;Maine;39522
+Franklin;Madison;(130) 847-4458;;F;88;N Harrison St;Phoenix;Colorado;77336
+Dwight;Harrison;(468) 536-3432;;F;82;East 1st Street;Boise;New Mexico;22689
+Andrew;Fillmore;(999) 556-6102;;M;20;North Ventu Park Road;Atlanta;Texas;71978
+Harry;Monroe;(608) 351-9322;;M;93;South Highway;Jackson;Tennessee;64876
+William;Monroe;;;F;64;North Broadway Street;Richmond;California;78638
+Ulysses;Harding;(949) 753-5119;;F;66;Corona Del Mar;Topeka;South Dakota;22750
+Martin;Polk;(219) 583-2633;;M;57;South Highway;Montgomery;Oregon;55704
+Martin;Hayes;(986) 125-8344;;M;66;Via Real;Saint Paul;North Dakota;22720
+Ronald;Madison;(634) 516-8299;;M;51;Lindbergh Blvd;Augusta;Minnesota;40725
+Richard;Polk;(563) 451-9066;;M;68;Tully Road East;Boston;Georgia;83384
+Chester;McKinley;(814) 516-5348;;F;98;Apalachee Parkway;Jefferson City;North Carolina;50301
+Thomas;Grant;(400) 768-6977;;M;49;East Calle Primera;Nashville;Nevada;80865
+Richard;Buchanan;(200) 545-9021;;F;90;Padre Boulevard;Annapolis;West Virginia;80890
+Abraham;Adams;(246) 199-1871;;M;69;Burnett Road;Juneau;Idaho;45677
+Chester;Taft;(327) 713-5505;;F;74;South Highway;Lansing;Minnesota;97503
+Harry;Lincoln;(855) 981-8718;;F;40;East Fry Blvd.;Des Moines;Oregon;88243
+Benjamin;Kennedy;(832) 857-4057;;F;62;N Kentwood;Augusta;Wyoming;18202
+Thomas;Madison;(956) 976-5656;;F;74;French Camp Turnpike Road;Little Rock;North Dakota;28002
+Thomas;Truman;(432) 602-4508;;F;36;N Harrison St;Helena;Minnesota;92659
+Herbert;Coolidge;(250) 224-7376;;M;62;Milpas Street;Albany;Vermont;70620
+Theodore;Monroe;(990) 691-8329;;F;31;Cerrillos Road;Sacramento;North Carolina;66189
+Herbert;Pierce;;;F;98;North Atherton Street;Nashville;New Jersey;38965
+Woodrow;Harding;(281) 873-3811;;M;26;San Marcos;Annapolis;Tennessee;94360
+Thomas;Reagan;(351) 752-8421;;M;100;South Roosevelt Drive;Sacramento;Connecticut;27536
+Warren;Quincy;(820) 840-2877;;F;32;Moreno Drive;Salt Lake City;Connecticut;16429
+James;Grant;(936) 972-3016;;F;53;Bailard Avenue;Harrisburg;Georgia;94526
+Andrew;Nixon;(664) 766-5490;;M;84;Woodson Rd.;Lansing;New York;41786
+William;Grant;(990) 720-6969;;F;40;El Camino Real;Sacramento;South Carolina;19696
+Warren;Ford;(404) 269-8520;;F;59;Katella Avenue;Dover;Nebraska;85584
+Martin;Cleveland;(659) 901-7318;;F;44;Apalachee Parkway;Salem;New Hampshire;61869
+Ronald;Ford;(544) 926-6010;;F;78;Westside Freeway;Carson City;Maine;19030
+Rutherford;Hayes;(778) 109-3287;;F;99;Camelback Rd;Albany;Montana;47173
+Lyndon;VanBuren;(799) 901-4810;;M;45;Cerrillos Road;Olympia;Utah;42921
+Franklin;Roosevelt;(525) 155-6946;;F;93;San Simeon;Atlanta;Oregon;74793
+Benjamin;Garfield;(754) 821-2628;;F;56;Timberlane Drive;Dover;Oklahoma;57206
+Thomas;Carter;(538) 898-6526;;M;34;North Atherton Street;Des Moines;Rhode Island;33303
+Theodore;VanBuren;(634) 164-7674;;M;34;San Marcos;Olympia;Kentucky;34173
+Franklin;Johnson;(318) 563-7455;;F;29;Erringer Road;Madison;Florida;43684
+Martin;Coolidge;(640) 992-8328;;F;95;Bayshore Freeway;Little Rock;Arizona;23360
+Richard;Madison;(499) 403-4351;;F;83;Pacific Hwy S;Montpelier;Maine;40517
+Andrew;Jefferson;(169) 722-4692;;F;81;Santa Rosa North;Jefferson City;Massachusetts;64358
+Franklin;Johnson;(819) 791-1318;;F;32;Richmond Hill;Juneau;West Virginia;85008
+Woodrow;Ford;(608) 954-9313;;M;51;N Kentwood;Atlanta;Louisiana;64803
+William;Tyler;(235) 297-2423;;M;19;East Main Street;Indianapolis;Arizona;49732
+Rutherford;Buchanan;(299) 192-7349;;M;96;Steele Lane;Phoenix;New Mexico;22722
+William;Adams;(594) 694-4462;;M;75;Carpinteria South;Nashville;South Carolina;30677
+Ulysses;VanBuren;(558) 206-6899;;F;92;N Kentwood;Cheyenne;Rhode Island;59676
+Grover;Monroe;(323) 688-2314;;F;54;El Camino Real;Concord;Wisconsin;87149
+Andrew;Jackson;(932) 756-3378;;M;61;Bayshore Freeway;Bismarck;Virginia;93642
+Franklin;Hoover;(479) 875-3887;;F;20;E Fowler Avenue;Lansing;Connecticut;36802
+James;Hoover;;;M;25;Via Real;Albany;South Dakota;22361
+Gerald;Adams;(276) 917-6480;;F;56;South Roosevelt Drive;Des Moines;New York;20643
+Benjamin;Johnson;(334) 639-4418;;M;31;San Luis Obispo North;Jefferson City;West Virginia;65706
+Theodore;Taft;(661) 778-8107;;F;24;Castillo Drive;Lincoln;California;54330
+Woodrow;Pierce;(796) 552-6041;;M;59;Milpas Street;Concord;South Dakota;96286
+Ulysses;Grant;(626) 703-7143;;F;38;Richmond Hill;Topeka;Nebraska;64120
+Zachary;Grant;(524) 495-6683;;F;94;Hutchinson Rd;Saint Paul;Virginia;15370
+Herbert;Wilson;(279) 348-8185;;M;21;El Camino Real;Annapolis;Florida;35066
+Ronald;Reagan;(143) 859-4938;;F;36;Redwood Highway;Topeka;Kansas;17399
+Rutherford;Roosevelt;(323) 146-7895;;F;54;Padre Boulevard;Baton Rouge;Illinois;75558
+James;Hayes;(468) 766-5605;;M;63;El Camino Real;Pierre;Tennessee;64228
+Dwight;Polk;(351) 293-4163;;F;25;Tully Road East;Trenton;Wisconsin;25976
+Thomas;Roosevelt;(695) 586-6579;;M;57;San Simeon;Augusta;Michigan;15324
+Millard;Arthur;(570) 850-6132;;F;62;Jones Road;Salt Lake City;Kentucky;21278
+Thomas;Jefferson;(806) 868-2011;;F;61;East Calle Primera;Phoenix;North Dakota;32463
+Benjamin;Madison;(551) 637-8292;;F;59;N Harrison St;Lansing;Nevada;46573
+Thomas;Taylor;(884) 186-5329;;M;98;Carpinteria Avenue;Columbus;New Jersey;74757
+Richard;Washington;;;F;84;San Simeon;Tallahassee;Oklahoma;90133
+Warren;VanBuren;(939) 496-1800;;M;42;Jean de la Fontaine;Montpelier;Arkansas;99954
+Calvin;Polk;(377) 139-9839;;M;33;Erringer Road;Bismarck;Delaware;21944
+Abraham;Eisenhower;(103) 431-4394;;M;86;Carpinteria North;Jackson;California;13024
+Theodore;Grant;(427) 611-5376;;F;57;Jones Road;Nashville;Connecticut;30193
+Jimmy;Jefferson;(970) 841-4437;;F;33;Fontaine Road;Trenton;Maryland;53141
+Herbert;Hoover;(194) 292-3991;;M;91;Apalachee Parkway;Tallahassee;Louisiana;66222
+Ronald;Jefferson;(867) 832-2099;;M;73;North Atherton Street;Olympia;West Virginia;96352
+Abraham;Harrison;(269) 914-9805;;M;99;Santa Rosa South;Lansing;Arizona;58254
+William;Madison;(561) 182-4458;;M;29;East 1st Street;Pierre;Kentucky;51346
+William;Harrison;(557) 757-2954;;F;38;Castillo Drive;Santa Fe;Rhode Island;11289
+Dwight;Cleveland;(637) 499-1901;;F;88;Erringer Road;Concord;New Jersey;72989
+Bill;Washington;(768) 252-3058;;M;42;East 1st Street;Harrisburg;Wisconsin;25871
+Harry;Truman;(459) 978-5761;;F;26;S Rustle St;Nashville;South Carolina;90669
+Warren;Madison;(222) 292-2885;;F;99;Steele Lane;Frankfort;Missouri;31055
+Grover;Cleveland;(730) 750-2553;;F;37;Santa Monica Road;Saint Paul;Louisiana;34625
+Woodrow;Jackson;(732) 534-7494;;M;77;Pacific Hwy S;Baton Rouge;Oregon;36697
+Grover;Polk;;;F;78;Carpinteria North;Madison;Nevada;76912
+Jimmy;Grant;(716) 354-6985;;F;42;S Rustle St;Phoenix;Washington;56107
+Bill;Garfield;(688) 839-7059;;M;92;Lindbergh Blvd;Helena;Montana;50914
+Franklin;Harrison;(847) 947-4152;;F;75;East Calle Primera;Des Moines;Kentucky;43254
+Herbert;Kennedy;(220) 535-9986;;M;85;Newbury Road;Boise;Idaho;41224
+Harry;Monroe;(327) 712-2819;;F;63;Camelback Rd;Jackson;South Dakota;51299
+Jimmy;Taylor;(589) 944-2423;;M;55;Lindbergh Blvd;Olympia;Vermont;77433
+Andrew;Jefferson;(996) 693-9677;;M;45;French Camp Turnpike Road;Oklahoma City;Kansas;62368
+Thomas;Nixon;(644) 170-3354;;M;47;N Kentwood;Helena;Florida;54357
+John;Buchanan;(215) 898-7536;;F;19;Castillo Drive;Salt Lake City;West Virginia;51071
+Herbert;Wilson;(785) 650-6578;;M;44;Milpas Street;Dover;Arizona;59658
+Chester;Hoover;(206) 193-9895;;M;20;San Simeon;Honolulu;Connecticut;92964
+Benjamin;Tyler;(962) 242-8546;;M;68;Santa Ana Freeway;Annapolis;Missouri;39888
+James;Polk;(584) 863-3503;;F;83;East Main Street;Carson City;California;25075
+Ulysses;Washington;(429) 301-5624;;M;77;South Roosevelt Drive;Juneau;Georgia;88854
+Warren;Roosevelt;(665) 496-9259;;M;21;East Main Street;Raleigh;North Carolina;86545
+Grover;Roosevelt;(937) 215-5026;;F;29;South Roosevelt Drive;Frankfort;Wyoming;64528
+Bill;VanBuren;;;F;58;East Main Street;Jackson;Nebraska;24436
+Bill;Buchanan;(913) 225-6662;;M;41;San Simeon;Hartford;South Carolina;43555
+Thomas;Garfield;(385) 938-4223;;F;18;Fontaine Road;Montgomery;Kansas;76279
+Benjamin;Hayes;(660) 418-6408;;M;86;Carpinteria North;Concord;Idaho;16983
+Lyndon;Garfield;(663) 687-7344;;F;43;Fontaine Road;Atlanta;Connecticut;14579
+Ulysses;Nixon;(741) 250-7098;;F;93;Santa Rosa North;Sacramento;Georgia;39223
+Chester;Adams;(675) 635-1995;;M;96;San Ysidro Blvd;Salem;Tennessee;59474
+Grover;Roosevelt;(559) 548-6234;;M;59;Milpas Street;Madison;Maryland;97925
+Dwight;Buchanan;(566) 364-7807;;M;57;Woodson Rd.;Santa Fe;Washington;67163
+Ulysses;Monroe;(994) 357-3516;;M;77;Lake Tahoe Blvd.;Austin;Georgia;97511
+Harry;Hayes;(862) 704-3862;;F;97;Milpas Street;Richmond;Idaho;50457
+George;Kennedy;(740) 269-5708;;F;54;S Rustle St;Salem;Nebraska;99209
+Rutherford;Jackson;(579) 230-5028;;M;24;Santa Rosa South;Nashville;Michigan;94824
+Rutherford;Jefferson;(275) 838-5417;;F;73;Redwood Highway;Olympia;Minnesota;46629
+Ulysses;Lincoln;(576) 662-7838;;F;91;Padre Boulevard;Harrisburg;Nevada;31983
+John;Monroe;(259) 388-9782;;F;26;Harbor Dr;Baton Rouge;South Dakota;94898
+James;Grant;(392) 228-1968;;F;26;San Simeon;Sacramento;Maryland;23504
+Warren;Pierce;;;F;22;Grandview Drive;Topeka;California;64230
+Grover;Truman;(482) 723-7622;;F;62;East Calle Primera;Atlanta;New Hampshire;88852
+William;Taft;(721) 627-4700;;F;70;Hutchinson Rd;Phoenix;Utah;33339
+William;Tyler;(759) 368-3638;;F;85;San Marcos;Denver;North Carolina;74949
+Chester;Quincy;(343) 339-5142;;M;83;North Erringer Road;Charleston;Missouri;74312
+Theodore;Harrison;(624) 315-2618;;M;27;Cabrillo Highway;Frankfort;Georgia;51872
+Rutherford;Adams;(892) 113-3422;;M;25;San Simeon;Indianapolis;Wisconsin;97296
+Benjamin;McKinley;(435) 880-3328;;F;22;S Rustle St;Dover;Montana;54154
+Ronald;Adams;(439) 260-9203;;F;46;Pacific Hwy S;Santa Fe;Ohio;54008
+Harry;Adams;(321) 465-9331;;M;43;San Luis Obispo North;Helena;Iowa;46930
+Grover;Kennedy;(644) 664-7570;;F;70;French Camp Turnpike Road;Olympia;Oregon;76937
+Gerald;Kennedy;(948) 715-3975;;F;28;Steele Lane;Columbia;Arkansas;25443
+Grover;Hoover;(834) 665-4496;;F;96;San Luis Obispo North;Pierre;Maine;39522
+Franklin;Madison;(130) 847-4458;;F;88;N Harrison St;Phoenix;Colorado;77336
+Dwight;Harrison;(468) 536-3432;;F;82;East 1st Street;Boise;New Mexico;22689
+Andrew;Fillmore;(999) 556-6102;;M;20;North Ventu Park Road;Atlanta;Texas;71978
+Harry;Monroe;(608) 351-9322;;M;93;South Highway;Jackson;Tennessee;64876
+William;Monroe;;;F;64;North Broadway Street;Richmond;California;78638
+Ulysses;Harding;(949) 753-5119;;F;66;Corona Del Mar;Topeka;South Dakota;22750
+Martin;Polk;(219) 583-2633;;M;57;South Highway;Montgomery;Oregon;55704
+Martin;Hayes;(986) 125-8344;;M;66;Via Real;Saint Paul;North Dakota;22720
+Ronald;Madison;(634) 516-8299;;M;51;Lindbergh Blvd;Augusta;Minnesota;40725
+Richard;Polk;(563) 451-9066;;M;68;Tully Road East;Boston;Georgia;83384
+Chester;McKinley;(814) 516-5348;;F;98;Apalachee Parkway;Jefferson City;North Carolina;50301
+Thomas;Grant;(400) 768-6977;;M;49;East Calle Primera;Nashville;Nevada;80865
+Richard;Buchanan;(200) 545-9021;;F;90;Padre Boulevard;Annapolis;West Virginia;80890
+Abraham;Adams;(246) 199-1871;;M;69;Burnett Road;Juneau;Idaho;45677
+Chester;Taft;(327) 713-5505;;F;74;South Highway;Lansing;Minnesota;97503
+Harry;Lincoln;(855) 981-8718;;F;40;East Fry Blvd.;Des Moines;Oregon;88243
+Benjamin;Kennedy;(832) 857-4057;;F;62;N Kentwood;Augusta;Wyoming;18202
+Thomas;Madison;(956) 976-5656;;F;74;French Camp Turnpike Road;Little Rock;North Dakota;28002
+Thomas;Truman;(432) 602-4508;;F;36;N Harrison St;Helena;Minnesota;92659
+Herbert;Coolidge;(250) 224-7376;;M;62;Milpas Street;Albany;Vermont;70620
+Theodore;Monroe;(990) 691-8329;;F;31;Cerrillos Road;Sacramento;North Carolina;66189
+Franklin;Harrison;(565) 670-6149;;F;60;Cabrillo Highway;Trenton;Montana;57632
+Zachary;Polk;(577) 901-6092;;F;24;Fontaine Road;Bismarck;Missouri;67138
+Theodore;Harrison;(427) 790-3561;;F;45;Castillo Drive;Des Moines;Kentucky;66945
