@@ -9,9 +9,9 @@
     <relativePath>../../../../</relativePath>
   </parent>
   <groupId>org.artha.cicd.job</groupId>
-  <artifactId>J01_FileToDatabase</artifactId>
+  <artifactId>Error_Job</artifactId>
   <version>0.1.0-SNAPSHOT</version>
-  <name>GVL_DEMO J01_FileToDatabase-0.1.0-SNAPSHOT (0.1,Job Designs)</name>
+  <name>GVL_DEMO Error_Job-0.1.0-SNAPSHOT (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -24,7 +24,7 @@
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>GVL_DEMO</talend.project.name>
     <talend.product.version>7.3.1.20200219_1130</talend.product.version>
-    <talend.job.finalName>j01_filetodatabase_0_1</talend.job.finalName>
+    <talend.job.finalName>error_job_0_1</talend.job.finalName>
     <talend.pigudf.groupid>org.example.gvl_demo.pigudf</talend.pigudf.groupid>
     <talend.routine.groupid>org.example.gvl_demo.code</talend.routine.groupid>
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
@@ -33,8 +33,8 @@
     <talend.job.context>DEV</talend.job.context>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
-    <talend.job.name>J01_FileToDatabase</talend.job.name>
-    <talend.job.id>_KGE5YGLjEeq4S5DjP4RBoA</talend.job.id>
+    <talend.job.name>Error_Job</talend.job.name>
+    <talend.job.id>_5ajLoOeGEeqLycT1wtfw2Q</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.folder>demo/</talend.job.folder>
     <talend.job.framework></talend.job.framework>
@@ -101,11 +101,6 @@
       <groupId>net.sourceforge.jtds</groupId>
       <artifactId>jtds</artifactId>
       <version>1.3.1-patch-20190523</version>
-    </dependency>
-    <dependency>
-      <groupId>org.talend.libraries</groupId>
-      <artifactId>junit</artifactId>
-      <version>6.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
