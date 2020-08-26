@@ -15,6 +15,7 @@
     <module>jobs/process/Demo/j03_deduplicating_0.1</module>
     <module>jobs/process/Demo/j01_filetodatabase_0.1</module>
     <module>jobs/process/Demo/error_jobs_0.1</module>
+    <module>jobs/process/job1_0.1</module>
   </modules>
   <properties>
     <signer.version>7.3.1</signer.version>
