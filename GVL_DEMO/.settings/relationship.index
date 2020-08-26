@@ -76,10 +76,6 @@
     "version" : "Latest",
     "type" : "context"
   }, {
-    "id" : "_wBi-EOdIEeq_OPIIuVb5Tw",
-    "version" : "Latest",
-    "type" : "property"
-  }, {
     "id" : "DQTechnical",
     "version" : "Latest",
     "type" : "routine"
@@ -101,6 +97,10 @@
     "type" : "routine"
   }, {
     "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
     "version" : "Latest",
     "type" : "routine"
   }, {
@@ -139,10 +139,6 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
-  }, {
-    "id" : "_gtHIEF77EeqAUqS1jg0IBQ - CustomerBigData",
-    "version" : "Latest",
-    "type" : "schema"
   } ]
 }, {
   "baseItem" : {
